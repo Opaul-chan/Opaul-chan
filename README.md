@@ -1,5 +1,7 @@
-### Hi there 👋
-🌱 I’m currently learning Junior Software Developer from Generation Thailand. 
+# Hi there 👋
+| ----------- | ----------- |
+# I'm Opaul Chanlongsawettakun
+
 <!--
 **Opaul-chan/Opaul-chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
