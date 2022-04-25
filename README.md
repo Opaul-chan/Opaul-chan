@@ -1,6 +1,10 @@
-# Hi there 👋
-| ----------- | ----------- |
-# I'm Opaul Chanlongsawettakun
+# Welcome to my GitHub profile 👋 🌏
+
+# I'm Opaul Chanlongsawettakun 🙆‍♀️
+
+## Education 🎓
+Junior Software Developer Generation Thailand | Data Science Bootcamp | Physical therapy.
+
 
 <!--
 **Opaul-chan/Opaul-chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
