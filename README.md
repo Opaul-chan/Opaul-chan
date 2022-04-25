@@ -5,6 +5,8 @@
 ## Education 🎓
 Junior Software Developer Generation Thailand | Data Science Bootcamp | Physical therapy.
 
+## Contact 	📥 
+Opaul.chan@gmail.com
 
 <!--
 **Opaul-chan/Opaul-chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
